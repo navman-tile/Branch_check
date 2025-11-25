@@ -1,0 +1,2 @@
+C:\Users\z5417679\source\repos\weeder-assignment-navman-tile\MTRN3500 Assignment 2\x64\Debug\MTRN3500 Assignment 2.vcxproj.AssemblyReference.cache
+C:\Users\z5417679\source\repos\weeder-assignment-navman-tile\MTRN3500 Assignment 2\x64\Debug\MTRN3500 Assignment 2.vcxproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,7 @@
+﻿  Lidar.cpp
+  TMM.cpp
+  VC.cpp
+  Generating Code...
+  CrashAvoidance.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+ControllerInterface_x64_Debug.lib(controllerInterface.obj) : warning LNK4099: PDB 'ControllerInterface_x64_Debug.pdb' was not found with 'ControllerInterface_x64_Debug.lib(controllerInterface.obj)' or at 'C:\Users\z5417679\Source\Repos\weeder-assignment-navman-tile\Executables\ControllerInterface_x64_Debug.pdb'; linking object as if no debug info
+  MTRN3500 Assignment 2.vcxproj -> C:\Users\z5417679\Source\Repos\weeder-assignment-navman-tile\Executables\MTRN3500 Assignment 2.exe
